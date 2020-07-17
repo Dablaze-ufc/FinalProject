@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FinalProject.iml" filepath="$PROJECT_DIR$/.idea/modules/FinalProject.iml" group="FinalProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="FinalProject/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend/backend.iml" filepath="$PROJECT_DIR$/.idea/modules/backend/backend.iml" group="FinalProject/backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/displayjokes/displayjokes.iml" filepath="$PROJECT_DIR$/.idea/modules/displayjokes/displayjokes.iml" group="FinalProject/displayjokes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jokesmodule/jokesmodule.iml" filepath="$PROJECT_DIR$/.idea/modules/jokesmodule/jokesmodule.iml" group="FinalProject/jokesmodule" />
+    </modules>
+  </component>
+</project>
